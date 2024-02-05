@@ -15,3 +15,5 @@ dotnet test --filter "Categoria=GetOrders"
 dotnet test --filter "Categoria=GetStatus"
 
 dotnet test --filter "Categoria=Update"
+
+![image](https://github.com/jonathanroberts2000/PPI-API/assets/47385932/43db9a5e-6fa1-4bbc-9e1e-81edf153b6c4)
