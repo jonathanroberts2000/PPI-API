@@ -1,6 +1,6 @@
 Run Tests:
 
-* Para ejecutar los tests con un token valido, se recomienda ejecutar la obtención del token y el resultado del mismo, setearlo en la propiedad "BearerTokenTest" del archivo jwt.Development.json
+* Para ejecutar los tests con un token valido, se recomienda ejecutar la obtención del token y el resultado del mismo, setearlo en la propiedad "BearerTokenTest" del archivo jwt.Development.json ya que el mismo tiene una duración de 2 horas.
 
 dotnet test --filter "Categoria=Create"
 
