@@ -1,5 +1,7 @@
 Run Tests:
 
+* Para ejecutar los tests con un token valido, se recomienda ejecutar la obtención del token y el resultado del mismo, setearlo en la propiedad "BearerTokenTest" del archivo jwt.Development.json
+
 dotnet test --filter "Categoria=Create"
 
 dotnet test --filter "Categoria=Delete"
