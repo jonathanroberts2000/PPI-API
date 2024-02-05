@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "PPI": "Data Source=DESKTOP-S1GNS9H\\SQLEXPRESS;Initial Catalog=PPI;Integrated Security=True;TrustServerCertificate=True;"
+  }
+}

@@ -1,0 +1,15 @@
+D:\VDesktop\PPI-API\PPI-Data\bin\Debug\net6.0\PPI-Data.deps.json
+D:\VDesktop\PPI-API\PPI-Data\bin\Debug\net6.0\PPI-Data.dll
+D:\VDesktop\PPI-API\PPI-Data\bin\Debug\net6.0\PPI-Data.pdb
+D:\VDesktop\PPI-API\PPI-Data\bin\Debug\net6.0\PPI-Model.dll
+D:\VDesktop\PPI-API\PPI-Data\bin\Debug\net6.0\PPI-Model.pdb
+D:\VDesktop\PPI-API\PPI-Data\obj\Debug\net6.0\PPI-Data.csproj.AssemblyReference.cache
+D:\VDesktop\PPI-API\PPI-Data\obj\Debug\net6.0\PPI-Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\VDesktop\PPI-API\PPI-Data\obj\Debug\net6.0\PPI-Data.AssemblyInfoInputs.cache
+D:\VDesktop\PPI-API\PPI-Data\obj\Debug\net6.0\PPI-Data.AssemblyInfo.cs
+D:\VDesktop\PPI-API\PPI-Data\obj\Debug\net6.0\PPI-Data.csproj.CoreCompileInputs.cache
+D:\VDesktop\PPI-API\PPI-Data\obj\Debug\net6.0\PPI-Data.csproj.CopyComplete
+D:\VDesktop\PPI-API\PPI-Data\obj\Debug\net6.0\PPI-Data.dll
+D:\VDesktop\PPI-API\PPI-Data\obj\Debug\net6.0\refint\PPI-Data.dll
+D:\VDesktop\PPI-API\PPI-Data\obj\Debug\net6.0\PPI-Data.pdb
+D:\VDesktop\PPI-API\PPI-Data\obj\Debug\net6.0\ref\PPI-Data.dll
